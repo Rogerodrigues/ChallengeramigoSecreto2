@@ -18,7 +18,7 @@ Um projeto web para organizar e realizar um Amigo Secreto online, utilizando Jav
 ## Como Utilizar
 
 Clone este repositório:
-git clone https://github.com/seu-usuario/ChallengeramigoSecreto2.git
+git clone https://github.com/Rogerodrigues/ChallengeramigoSecreto2
 
 Navegue até o diretório do projeto:
 cd ChallengeramigoSecreto2
