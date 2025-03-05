@@ -13,7 +13,7 @@ Um projeto web para organizar e realizar um Amigo Secreto online, utilizando Jav
 
 - **Cadastro de Participantes:** Permite adicionar os nomes dos participantes.
 - **Sorteio Automático:** Realiza o sorteio automaticamente garantindo que ninguém tire a si mesmo.
-- **Envio de Resultados:** Exibe o resultado do sorteio na tela ou envia por email.
+- **Envio de Resultados:** Exibe o resultado do sorteio na tela.
 
 ## Como Utilizar
 
