@@ -20,10 +20,9 @@ Um projeto web para organizar e realizar um Amigo Secreto online, utilizando Jav
 Clone este repositório:
 git clone https://github.com/Rogerodrigues/ChallengeramigoSecreto2
 
-Navegue até o diretório do projeto:
-cd ChallengeramigoSecreto2
+Abra o arquivo index.html em seu navegador para ver a aplicação em funcionamento ou
+acesse o link gerado pelo vercel :  https://challengeramigo-secreto2-git-main-rogers-projects-a6ba2d3c.vercel.app/
 
-Abra o arquivo index.html em seu navegador para ver a aplicação em funcionamento.
 Estrutura do Projeto
 index.html: Arquivo principal da página.
 
@@ -42,7 +41,7 @@ Para mais informações ou dúvidas, entre em contato:
 
 Email: roger.o.rodrigues11@gmail.com
 
-GitHub: 
+GitHub: https://github.com/Rogerodrigues
 
 link gerado pelo vercel : https://challengeramigo-secreto2-git-main-rogers-projects-a6ba2d3c.vercel.app/
 
